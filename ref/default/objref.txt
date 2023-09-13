@@ -1,0 +1,99 @@
+@default_units_ts/image/icons/冲锋陷阵 (1).png
+@default_units_ts/image/icons/刀光 (1).png
+@default_units_ts/image/icons/剑刃风暴 (3).png
+@default_units_ts/image/icons/劈砍 (1).png
+@default_units_ts/image/icons/怒吼 (1).png
+@default_units_ts/image/icons/戳刺 (1).png
+@default_units_ts/image/icons/旋风斩 (1).png
+@default_units_ts/image/icons/火球 (2).png
+@default_units_ts/image/icons/移形换影 (2).png
+@default_units_ts/image/icons/血焰之剑 (1).png
+Attack
+Spellcast
+anim/human/sword_anim/DaJianZhanShi/skill_04.ani
+characters/Monster/SK_Spider_Burrow_S/model.prefab
+characters/monster/sk_vulture_bird/model.prefab
+characters/monster/sk_wild_boar/model.prefab
+characters/monster/undeadbird_egg/model.prefab
+effect/eff_Ceshi_1/particle/PS_Huo_5/particle.effect
+effect/eff_battle/particle/gongjian/ps_chuanci_1/particle.effect
+effect/eff_battle/particle/gongjian/wanjianqifa/ps_shoujitx_1/particle.effect
+effect/eff_battle/particle/shuangshouchui/xuanzhuanchui/ps_xuanzhuanchui_1/particle.effect
+effect/eff_reverse/particle/hades/daoguang/ps_daoguang_4/particle.effect
+effect/eff_reverse/particle/yanshi/ps_zhuaji_1/particle.effect
+effect/eff_roguelike/frostbolt_eff/frostbolt_eff1/particle.effect
+effect/eff_tongyong/huoqiu2/particle.effect
+effect/eff_tongyong/huoqiu_blast/particle.effect
+effect/eff_tongyong/ps_daoguang_1/particle.effect
+effect/eff_tongyong/ps_shouji_1/particle.effect
+effect/eff_tongyong/ps_strike_katana_hit/particle.effect
+effect/eff_xujian/eff_fashi_02/eff_fashi_02/particle.effect
+effect/eff_xujian/effect_dilie_001/particle.effect
+effect/eff_xujian/effect_fire_debuff/particle.effect
+effect/eff_xujian/effect_hit_001/particle.effect
+effect/eff_xujian/effect_tuowei_001/particle.effect
+effect/eff_xujian/effect_zhanshi_001/particle.effect
+effect/eff_xujian/effect_zhanshi_02/particle.effect
+effect/eff_xujian/effect_zhanshi_03/particle.effect
+effect/eff_xujian/effect_zhanshi_03buff/particle.effect
+effect/eff_xujian/effect_zhanshi_04/particle.effect
+effect/eff_xujian/effect_zhanshi_hit/particle.effect
+effect/eff_xujian/effect_zhanshi_jian01/particle.effect
+effect/td_eff/bingying/dao3/particle.effect
+eqpt/weapon/mofashi_weapon/model.prefab
+eqpt/weapon/sm_dr_spear_08_short/model.prefab
+eqpt/weapon/sm_dr_sword_04_02/model.prefab
+maps/aaa_5nmb/anim/sk_basic2/anim/human/barehanded_anim/hand_05/skill_02.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/barehanded_anim/hand_05/skill_025.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/barehanded_anim/hand_05/skill_dafengche.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/barehanded_anim/hand_07/skill_02.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/blade_anim/twohand_01/attack_01.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/blade_anim/twohand_01/attack_02.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/blade_anim/twohand_01/attack_03.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/magic_anim/MoFaShi/skill_02.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/sword_anim/DaJianZhanShi/skill_02.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/sword_anim/DaJianZhanShi/skill_03.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/sword_anim/DaJianZhanShi/skill_04.ani
+maps/aaa_5nmb/anim/sk_basic2/anim/human/sword_anim/dajianzhanshi/skill_01.ani
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_01.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_02.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_03.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_04.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_05.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_06.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_07.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_08.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_01.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_02.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_03.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_04.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_05.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_06.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_07.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_grass_08.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_01.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_02.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_03.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_04.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_05.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_06.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_07.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_rock_08.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_01.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_02.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_03.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_04.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_05.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_06.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_07.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_sand_08.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_01.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_02.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_03.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_04.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_05.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_06.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_07.ogg
+sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_water_08.ogg
+sound/mover_td_sound/bgm
+unkown

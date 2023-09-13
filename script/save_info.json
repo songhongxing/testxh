@@ -1,0 +1,34 @@
+{
+    "default_units_ts":{
+        "time_stamp":19152964.857500,
+        "version":0.500000
+    },
+    "defaultui":{
+        "time_stamp":19070774.049000,
+        "version":0.500000
+    },
+    "lib_common_ai":{
+        "time_stamp":18971345.800600,
+        "version":0.500000
+    },
+    "lib_control":{
+        "time_stamp":18043393.788100,
+        "version":0.500000
+    },
+    "script":{
+        "time_stamp":14508678.523600,
+        "version":0.500000
+    },
+    "smallcard_get_items":{
+        "time_stamp":808805934.717000,
+        "version":0.500000
+    },
+    "smallcard_inventory":{
+        "time_stamp":174234095.724000,
+        "version":0.500000
+    },
+    "smallcard_mail":{
+        "time_stamp":6255119288.956200,
+        "version":0.500000
+    }
+}

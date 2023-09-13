@@ -1,0 +1,16 @@
+{
+	"MapDisplayName": "空白（单人V2）",
+	"HideTileDeco": false,
+	"EnableGAO": false,
+	"GuideURL": "http://pt.master.sce.xd.com/editor_app.html",
+	"ProjectName": "aaa_5nmb",
+	"TriggerEditorMode": "V2",
+	"MechanismMode": "BOTH",
+	"TemplateName": "single_simple_ts",
+	"EnableSetScoreName": true,
+	"IsLib": false,
+	"Accessable": false,
+	"TestMapPath": "",
+	"PackEffect": true,
+	"LibForEditor": false
+}

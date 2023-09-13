@@ -1,0 +1,28 @@
+213.60759999975562:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Trigger","Item","Timer","Buff","Skill","Player","TriggerParamTable","TriggerEvent","Actor","ScreenPos","Target","EffectParam","EffectParamShared","YPR旋转","DataCache","Camera","Slot","Unit","Point"],"globalModules":["coroutine","_G","log","base"]}
+861.0319999996573:	Loaded 0 plugins
+861.8640000000596:	Parsing project settings
+865.4707000013441:	Transforming D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main_1.ts
+868.3086000010371:	moduleName:
+868.3126999996603:	aaa_5nmb
+868.9004999995232:	exportScope:
+868.9034000001848:	true
+877.3535000011325:	Printing D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main_1.ts
+883.966400001198:	Transforming D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main.ts
+885.2687999997288:	Printing D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main.ts
+888.1065999995917:	Transforming D:/星火编辑器/Res/maps/aaa/ui/script/trigger_validator.ts
+888.772199999541:	moduleName:
+888.777800001204:	validator
+889.3107000011951:	exportScope:
+889.3136999998242:	true
+926.4387999996543:	Printing D:/星火编辑器/Res/maps/aaa/ui/script/trigger_validator.ts
+931.6336000002921:	Constructing emit plan
+932.3903000000864:	Resolving dependencies for D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main_1.ts
+933.1243000011891:	Resolving dependencies for D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main.ts
+933.8618999999017:	Resolving "./trigger_module_main_1" from D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main.ts
+934.550699999556:	Resolved ./trigger_module_main_1 to D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main_1.ts
+935.4908000007272:	Resolving dependencies for D:/星火编辑器/Res/maps/aaa/ui/script/trigger_validator.ts
+936.2192000001669:	Emitting output
+936.7072000000626:	Emitting D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main_1.lua
+938.1951999999583:	Emitting D:/星火编辑器/Res/maps/aaa/ui/script/trigger_module_main.lua
+939.5459000002593:	Emitting D:/星火编辑器/Res/maps/aaa/ui/script/trigger_validator.lua
+941.8396000005305:	Emit finished!
